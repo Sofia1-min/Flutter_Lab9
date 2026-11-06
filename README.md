@@ -1,17 +1,20 @@
-# slot_machine_hortunova
+# Лабораторная работа №9. Flutter: StatefulWidget и управление состоянием
 
-A new Flutter project.
+**Фамилия, имя:** Хортюнова София Юрьевна 
+**Группа:** ИСП-241
+**Дата сдачи:** 06.11.2026
 
-## Getting Started
+## Что изучили
+1. Разницу между StatelessWidget и StatefulWidget.
+2. Управление состоянием приложения через setState().
+3. Подключение локальных изображений (assets).
+4. Обработку нажатий кнопок и защиту от повторных нажатий.
+5. Создание реалистичной анимации с помощью Future, AnimatedOpacity и AnimatedSwitcher.
 
-This project is a starting point for a Flutter application.
+## Скриншот финального приложения
+![Финальное приложение](img/step5_hortunova.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Инструкция по запуску
+1. Откройте терминал в папке с проектом.
+2. Выполните команду `flutter pub get`.
+3. Запустите приложение командой `flutter run -d chrome`.
